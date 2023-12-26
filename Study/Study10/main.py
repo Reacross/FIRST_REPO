@@ -1,7 +1,7 @@
 import sys
-import scan as scan
+import Study.Study10.scan as scan
 import shutil
-import normalize as normalize
+import Study.Study10.normalize as normalize
 from pathlib import Path
 
 def handle_file(path, root_folder, dist):
